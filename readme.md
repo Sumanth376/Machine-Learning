@@ -7,7 +7,9 @@ Welcome to my **Machine Learning Projects** repository! This collection showcase
 
 ## 🚀 Projects Overview
 
-### ✈️ 1. Flight Price Prediction  
+### [✈️ 1. Flight Price Prediction](https://github.com/Sumanth376/Machine-Learning/tree/main/Flight%20Price%20Prediction)
+ 
+
 **View Project**  
 **Objective:** To predict the price of flight tickets based on key features like airline, source, destination, date of journey, duration, and number of stops.  
 **Key Features:**  
@@ -20,7 +22,7 @@ Welcome to my **Machine Learning Projects** repository! This collection showcase
 
 ---
 
-### 🍽️ 2. Forecasting Restaurant Sales  
+### [🍽️ 2. Forecasting Restaurant Sales](https://github.com/Sumanth376/Machine-Learning/tree/main/Forecasting%20Restaurant%20sales) 
 **View Project**  
 **Objective:** To forecast daily/weekly restaurant sales based on historical data, weather, holidays, and promotional campaigns.  
 **Key Features:**  
@@ -33,7 +35,7 @@ Welcome to my **Machine Learning Projects** repository! This collection showcase
 
 ---
 
-### ❤️ 3. Heart Disease Prediction  
+### [❤️ 3. Heart Disease Prediction](https://github.com/Sumanth376/Machine-Learning/tree/main/Heart%20Disease%20Prediction)  
 **View Project**  
 **Objective:** To predict the risk of heart disease in patients using clinical and demographic data with classification models.  
 **Key Features:**  
